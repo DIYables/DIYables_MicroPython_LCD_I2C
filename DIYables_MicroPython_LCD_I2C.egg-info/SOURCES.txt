@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+DIYables_MicroPython_LCD_I2C/DIYables_MicroPython_LCD_I2C.py
+DIYables_MicroPython_LCD_I2C/__init__.py
+DIYables_MicroPython_LCD_I2C.egg-info/PKG-INFO
+DIYables_MicroPython_LCD_I2C.egg-info/SOURCES.txt
+DIYables_MicroPython_LCD_I2C.egg-info/dependency_links.txt
+DIYables_MicroPython_LCD_I2C.egg-info/top_level.txt
+examples/main.py
